@@ -1,0 +1,18 @@
+! 1 # = Title Legend
+! 2 - earth
+! 3 - platform
+! 4 - tree
+! 5 - barrel
+! 6 - bridge1
+!______MAP______
+
+
+
+
+
+4
+
+222           2
+        55
+2222222222222222222
+#   #    #      #       #
